@@ -3,7 +3,7 @@ name = "SigmaOS-arch-privacy-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-privacy-kernel component"
+description = "SigmaOS SigmaOS-arch-privacy-kernel component"
 upstream = []
 
 [contract]
